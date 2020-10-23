@@ -17,15 +17,15 @@
  *   except in compliance with the License. You may obtain a copy of
  *   the License at http://www.apache.org/licenses/LICENSE-2.0 .
  -->
-<Locale versionDTD="2.0.3" allowUpdateFromCLDR="yes" version="1.2">
+<Locale versionDTD="2.0.3" allowUpdateFromCLDR="no" version="1.0">
   <LC_INFO>
     <Language>
-      <LangID>fr</LangID>
-      <DefaultName>French</DefaultName>
+      <LangID>fon</LangID>
+      <DefaultName>Fongbe</DefaultName>
     </Language>
     <Country>
-      <CountryID>FR</CountryID>
-      <DefaultName>France</DefaultName>
+      <CountryID>BJ</CountryID>
+      <DefaultName>Benin</DefaultName>
     </Country>
   </LC_INFO>
   <LC_CTYPE>

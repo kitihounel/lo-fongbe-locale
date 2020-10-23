@@ -51,7 +51,7 @@
     <TimePM>PM</TimePM>
     <MeasurementSystem>metric</MeasurementSystem>
   </LC_CTYPE>
-  <LC_FORMAT replaceFrom="[CURRENCY]" replaceTo="[$F-40C]">
+  <LC_FORMAT replaceFrom="[CURRENCY]" replaceTo="[$XOF-FFFF]">
     <DateAcceptancePattern>D/M</DateAcceptancePattern>
     <DateAcceptancePattern>D.M.Y</DateAcceptancePattern>
     <DateAcceptancePattern>D-M-Y</DateAcceptancePattern>
